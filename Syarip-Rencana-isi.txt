@@ -4,6 +4,9 @@ Rencana konten udin
 * framework javascript
 ~vue
 ~reack
+- C++
+  ~ Seleck kodisi
+  ~ String
 - struktur data
 - php frameworks
 ~Laravel
