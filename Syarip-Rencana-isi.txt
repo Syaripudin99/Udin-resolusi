@@ -4,9 +4,14 @@ Rencana konten udin
 * framework javascript
 ~vue
 ~reack
+- html
+  ~taillwin
 - struktur data
 - php frameworks
 ~Laravel
 - interview
 - vlogs
 - phyton
+- C#
+  ~ tipe data
+  ~ boolean
