@@ -2,7 +2,9 @@ Rencana konten udin
 - javascripts
 * es6
 * framework javascript
-- struktur data
+  ~ Angular
+  ~ React
 - php frameworks
+  ~ Laravel
 - interview
 - vlogs
