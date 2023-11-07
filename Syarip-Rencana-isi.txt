@@ -3,13 +3,17 @@ Rencana konten udin
 * es6
 * framework javascript
 ~vue
-~reack
+~reacs
 - C++
   ~ Seleck kodisi
   ~ String
+  ~taillwin
 - struktur data
 - php frameworks
 ~Laravel
 - interview
 - vlogs
 - phyton
+- C#
+  ~ tipe data
+  ~ boolean
