@@ -1,5 +1,7 @@
 Rencana konten udin
-- javascript
+- javascripts
+* es6
+* framework javascript
 - php frameworks
 - interview
 - vlogs
