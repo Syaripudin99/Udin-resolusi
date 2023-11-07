@@ -10,3 +10,6 @@ Rencana konten udin
 - interview
 - vlogs
 - phyton
+- C#
+  ~ tipe data
+  ~ boolean
